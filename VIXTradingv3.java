@@ -45,9 +45,9 @@ public class VIXTradingv3 {
     public static final String API_URL_REAL = "https://api.ig.com/gateway/deal";
     public static final String API_URL_DEMO = "https://demo-api.ig.com/gateway/deal";
     private static String apiURL = API_URL_DEMO;
-    public static String apiUsername = "toondemo";
-    public static String apiPassword = "Daniamh!70649";
-    public static String apiKey = "a92f8af6a9787de11564ecadb8e1a71ca368a4b4";
+    public static String apiUsername = "";
+    public static String apiPassword = "";
+    public static String apiKey = "";
     public static String tradestatus = "not placed or updated";
     public static String pgupdate = "";
     public static String buytradeaction = "";
